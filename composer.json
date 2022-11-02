@@ -2,7 +2,7 @@
     "name": "rodrigo/mvc-php",
     "autoload": {
         "psr-4": {
-            "Rodrigo\\MvcPhp\\": "src/"
+            "app\\": "app"
         }
     },
     "authors": [
